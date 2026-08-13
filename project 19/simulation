@@ -1,0 +1,30 @@
+================================
+     IoT HEALTH MONITOR
+================================
+
+Temperature : 36.7 °C
+Heart Rate  : 76 BPM
+SpO2        : 98 %
+
+Status      : NORMAL
+WiFi        : CONNECTED
+MQTT        : CONNECTED
+
+Data sent successfully.
+================================
+================================
+     IoT HEALTH MONITOR
+================================
+
+Temperature : 38.9 °C
+Heart Rate  : 112 BPM
+SpO2        : 91 %
+
+Status      : WARNING
+
+!! HIGH TEMPERATURE !!
+!! HIGH HEART RATE !!
+!! LOW SpO2 !!
+
+ALARM ACTIVATED
+================================
